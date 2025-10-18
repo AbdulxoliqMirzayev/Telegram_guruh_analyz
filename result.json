@@ -1,0 +1,135 @@
+{
+  "timezone": "Asia/Tashkent",
+  "days": [
+    {
+      "date": "2025-10-18",
+      "threads": [
+        {
+          "topic": "Texnik yechim izlash.",
+          "messages": 3,
+          "users": 1
+        }
+      ]
+    },
+    {
+      "date": "2025-10-17",
+      "threads": [
+        {
+          "topic": "QQS bilan tolov.",
+          "messages": 8,
+          "users": 2
+        },
+        {
+          "topic": "QQS va hisob-kitoblar.",
+          "messages": 3,
+          "users": 3
+        }
+      ]
+    },
+    {
+      "date": "2025-10-16",
+      "threads": [
+        {
+          "topic": "MAX messenjeri va WhatsApp.",
+          "messages": 15,
+          "users": 4
+        },
+        {
+          "topic": "Avtomatik va qolda vazifalar.",
+          "messages": 9,
+          "users": 3
+        },
+        {
+          "topic": "Avito, AMO integratsiyasi.",
+          "messages": 3,
+          "users": 2
+        }
+      ]
+    },
+    {
+      "date": "2025-10-15",
+      "threads": [
+        {
+          "topic": "Umumiy suhbat",
+          "messages": 9,
+          "users": 4
+        },
+        {
+          "topic": "Umumiy suhbat",
+          "messages": 4,
+          "users": 3
+        },
+        {
+          "topic": "Umumiy suhbat",
+          "messages": 4,
+          "users": 3
+        }
+      ]
+    },
+    {
+      "date": "2025-10-14",
+      "threads": [
+        {
+          "topic": "Umumiy suhbat",
+          "messages": 14,
+          "users": 5
+        },
+        {
+          "topic": "Umumiy suhbat",
+          "messages": 7,
+          "users": 2
+        },
+        {
+          "topic": "Umumiy suhbat",
+          "messages": 5,
+          "users": 5
+        }
+      ]
+    },
+    {
+      "date": "2025-10-13",
+      "threads": [
+        {
+          "topic": "Texnik muammolar muhokamasi",
+          "messages": 4,
+          "users": 3
+        },
+        {
+          "topic": "AMO sozlamalari boyicha maslahat.",
+          "messages": 3,
+          "users": 3
+        },
+        {
+          "topic": "Telegram bot sozlamalari",
+          "messages": 3,
+          "users": 3
+        }
+      ]
+    },
+    {
+      "date": "2025-10-12",
+      "threads": [
+        {
+          "topic": "Telegramda lidlarni izlash.",
+          "messages": 5,
+          "users": 2
+        }
+      ]
+    },
+    {
+      "date": "2025-10-11",
+      "threads": [
+        {
+          "topic": "Xabar almashish platformalari.",
+          "messages": 4,
+          "users": 2
+        },
+        {
+          "topic": "Ish hujjatlari uchun servislar.",
+          "messages": 3,
+          "users": 2
+        }
+      ]
+    }
+  ]
+}
